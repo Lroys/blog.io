@@ -1263,6 +1263,7 @@ body::before {
   position: relative;
   max-width: 900px;
   margin: 0 auto;
+  margin-top: 10px;
   transition-property: all;
   transition-duration: 0.3s;
   transition-delay: 0s;
